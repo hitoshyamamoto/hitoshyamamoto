@@ -28,7 +28,10 @@
   <img src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" alt="Adafruit" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="" alt="" />
+  <img src="https://img.shields.io/badge/_-JAVA-B07219.svg?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge" alt="Assembly" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683" alt="Octave" />
   <img src="" alt="" />
 </div>
 
