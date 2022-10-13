@@ -49,7 +49,7 @@
   <img src="" alt="" />
   <img src="" alt="" />
 </div>
-<!--
+
 ### Status no GitHub 📈
 <div align="center">
   <table width="100%">
@@ -69,7 +69,7 @@
     </tbody>
   <table>
 <div>
--->
+
 
 
 <!--
