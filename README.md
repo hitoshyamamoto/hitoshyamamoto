@@ -20,7 +20,7 @@ I have diverse experience across Engineering, Software Development, and IT Suppo
 - **Features:** Supports 19+ databases (SQL, NoSQL, Vector, Time Series), Interactive CLI, Auto-configuration
 - **Impact:** Simplifies local development environment setup from hours to seconds
 - **Categories:** PostgreSQL, Redis, InfluxDB, Qdrant, Meilisearch, TimescaleDB, and more
-- 🔗 [Repository](https://github.com/hitoshyamamoto/hayai) | 📦 [NPM Package]() | 📝 [Documentation](https://github.com/hitoshyamamoto/hayai#readme)
+- 🔗 [Repository](https://github.com/hitoshyamamoto/hayai) | 📦 [NPM Package](https://www.npmjs.com/package/hayai-db?activeTab=readme) | 📝 [Documentation](https://github.com/hitoshyamamoto/hayai#readme)
 
 > *"Making database management 速い (hayai) since 2025"* - A CLI tool that instantly creates and manages local databases with Docker, designed for backend developers who need quick and reliable database instances.
 
