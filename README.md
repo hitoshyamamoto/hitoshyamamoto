@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Computer Engineering student at UNIFEI and graduated as a **Mechatronics Technician** from ETEP. Currently, I'm a **Systems Development Analyst** at Wonder Datalabs, responsible for Artificial Intelligence solutions, Systematization and Automation Projects, System Integration, and LLM applications.
+**Computer Engineering student** at UNIFEI and graduated as a **Mechatronics Technician** from ETEP. Currently, I'm a **Systems Development Analyst** at Wonder Datalabs, responsible for Artificial Intelligence solutions, Systematization and Automation Projects, System Integration, and LLM applications.
 
 I have diverse experience across Engineering, Software Development, and IT Support sectors. I've participated in robotics, programming, entrepreneurship, and research projects, including competitions at Hacktown, Campus Party, FIRST, and Formula SAE.
 
