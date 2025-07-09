@@ -172,5 +172,5 @@ I have diverse experience across Engineering, Software Development, and IT Suppo
 ---
 
 <div align="center">
-  <sub>⭐ Developed by Hitoshi Yamamoto | Open to collaborations and networking</sub>
+  <sub>Open to collaborations and networking</sub>
 </div>
