@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 **Computer Engineering student** at UNIFEI and graduated as a **Mechatronics Technician** from ETEP. Currently, I'm a **Systems Development Analyst** at Wonder Datalabs, responsible for Artificial Intelligence solutions, Systematization and Automation Projects, System Integration, and LLM applications.
 
@@ -12,9 +12,9 @@ I have diverse experience across Engineering, Software Development, and IT Suppo
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🚀 [Hayai - Database Management CLI](https://github.com/hitoshyamamoto/hayai)
+### [Hayai - Database Management CLI](https://github.com/hitoshyamamoto/hayai)
 **Fast & Extensible Database Management Tool**
 - **Technologies:** TypeScript, Node.js, Docker, Docker Compose, CLI
 - **Features:** Supports 19+ databases (SQL, NoSQL, Vector, Time Series), Interactive CLI, Auto-configuration
@@ -27,11 +27,11 @@ I have diverse experience across Engineering, Software Development, and IT Suppo
 ---
 
 ### 🎯 Current Focus Areas
-- 💡 **Technological Innovation**: Development of disruptive technological solutions and cutting-edge engineering projects
-- 🤖 **Artificial Intelligence**: Implementation of ML/DL algorithms and intelligent systems for process automation
-- ⚡ **Industrial Automation**: Creation of automated pipelines and workflow optimization to maximize operational efficiency
-- 🏭 **IoT & Industry 4.0**: Development of connected systems and smart solutions for industrial digital transformation
-- 🔧 **Backend Development**: Architecture of robust APIs, microservices, and high-performance distributed systems
+-  **Technological Innovation**: Development of disruptive technological solutions and cutting-edge engineering projects
+-  **Artificial Intelligence**: Implementation of ML/DL algorithms and intelligent systems for process automation
+-  **Industrial Automation**: Creation of automated pipelines and workflow optimization to maximize operational efficiency
+-  **IoT & Industry 4.0**: Development of connected systems and smart solutions for industrial digital transformation
+-  **Backend Development**: Architecture of robust APIs, microservices, and high-performance distributed systems
 
 ---
 
