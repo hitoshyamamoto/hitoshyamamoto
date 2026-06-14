@@ -2,9 +2,7 @@
 
 **Software Engineer working at the intersection of Industrial IoT, secure OT/IT infrastructure, and applied AI.**
 
-![Profile views](https://komarev.com/ghpvc/?username=hitoshyamamoto&color=1F4E79&style=flat&label=Profile+views)
-
-Software Engineer at Rennosonic Tecnologia and Computer Engineering student at UNIFEI. I design and integrate production systems for industrial monitoring, from edge devices and field protocols to segmented OT/IT networks, time-series pipelines, and observability. I also maintain open-source libraries that fill real gaps in the Python and Node.js ecosystems.
+Software Engineer at Rennosonic Tecnologia. I design, integrate, and secure the production systems behind industrial monitoring, from edge devices and field protocols, through segmented OT/IT networks, to time-series pipelines and observability. I also maintain open-source libraries that fill real gaps in the Python and Node.js ecosystems. I'm completing my Computer Engineering degree at UNIFEI.
 
 ---
 
@@ -33,14 +31,14 @@ What ties it together is a focus on the unglamorous, high-leverage layers of sof
 
 ## Featured Projects
 
-### soapbar — Modern SOAP library for Python
+### soapbar: Modern SOAP library for Python
 
 A clean, typed SOAP stack for Python. Build servers with a `SoapService` class and `@soap_operation` decorators (with auto-generated WSDL), or drive a typed client from an existing WSDL. Supports SOAP 1.1/1.2 and all binding styles. Built to handle the demands of real-world industrial standards.
 
 - **Stack:** Python · Apache-2.0
 - Repository: [github.com/hitoshyamamoto/soapbar](https://github.com/hitoshyamamoto/soapbar) · PyPI: [soapbar](https://pypi.org/project/soapbar/)
 
-### hayai — Database management CLI
+### hayai: Database management CLI
 
 A fast, extensible CLI for spinning up local development databases through Docker. For backend developers who want reliable instances configured in seconds, not hours.
 
@@ -133,4 +131,4 @@ A fast, extensible CLI for spinning up local development databases through Docke
 - **Medium:** [medium.com/@hitoshyamamoto](https://medium.com/@hitoshyamamoto)
 - **Kaggle:** [kaggle.com/hitoshyamamoto](https://www.kaggle.com/hitoshyamamoto)
 
-Open to collaboration on industrial IoT, OT/IT network security, backend systems, applied AI, and open-source projects.
+Open to collaborating on and leading new work across communication protocols, systems integration, OT/IT network security, backend and time-series systems, applied AI and LLMs, and the modernization of legacy industrial systems. I'm particularly drawn to open-source projects that solve real problems for industry.
